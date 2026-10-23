@@ -1,0 +1,17 @@
+{
+ "session": 5, "date": "2026-10-22", "stage": "Stage 3 · Lowercase (remediation)",
+ "focus": "oval reset, e vs l, review r s",
+ "known": "elrsiutw",
+ "mixed": {"items": "elrsiutw", "length": 8, "seed": 15},
+ "groups": [
+  {"title": "e vs l", "again": ["e", "l"], "double": ["e"], "contrast": true, "minutes": 9,
+   "fix": {"e": "Last time yours were tall and narrow, which reads as l."}},
+  {"title": "r and s review", "again": ["r", "s"], "minutes": 3, "note": "",
+   "fix": {"r": "Last time the shoulder got overdrawn and later r's turned into H or M shapes: keep it small.",
+           "s": "Keep the base the same on every s (some turned into 5 or A shapes)."}}
+ ],
+ "words": ["tell less leer este"],
+ "review": {"oval_check": true, "recall": ["w   t   i   u"], "note": "No model. Ovals again at the end of the session, to see whether the coil comes back when you are tired."},
+ "selfcheck": "e",
+ "tip": "e and l both have a loop; height is what separates them. A coil that creeps right is usually finger-driven writing: count aloud and move the forearm."
+}

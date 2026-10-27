@@ -1,0 +1,44 @@
+title: Mixed practice set 1
+course: CHEM 131
+date: 2026-10-28
+time: 25 min
+notes: Periodic table provided. Write the unit on every answer. 100% of items are graded.
+
+## Part 1: no calorimetry
+? How much heat does 15.0 g of water absorb when it warms from 25.0 °C to 55.0 °C? ($c = 4.184$ J/(g·°C))
+* 1.88 kJ
+- 0.188 kJ
+- 18.8 kJ
+- 4.18 kJ
+- 0.627 kJ
+why: q = mcΔT = 15.0 × 4.184 × 30.0 = 1883 J
+tag: Ch5 q=mcΔT
+space: 3
+
+? For \ce{2H2(g) + O2(g) -> 2H2O(l)}, $\Delta H = -571.6$ kJ. How many grams of \ce{H2} must burn to release 226 kJ?
+* 1.59 g
+- 0.795 g
+- 3.19 g
+- 0.396 g
+tag: Ch5 heat-mol
+space: 3
+
+## Part 2: algebra format check
+? Solve for $x$: $$\dfrac{2x+1}{3} = \dfrac{x}{6} + 5$$
+key: x = 29/3 (multiply every term by 6: 4x + 2 = x + 30)
+tag: ALG fraction equation
+space: 5
+
+> Use the pedigree below for item 4.
+img: pedigree-example.png 6cm
+
+? Which modes of inheritance are ruled out? List the deciding person for each. Answer: ___
+key: AD ruled out (II-1 unaffected child of ...); example only
+space: 4
+
+? Which of these is a strong acid?
+* \ce{HClO4}
+- HF
+- \ce{CH3COOH}
+- \ce{H3PO4}
+= None of these
